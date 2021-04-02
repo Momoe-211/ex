@@ -1,6 +1,8 @@
 const json = `
 {
-    "total": 2, "items": [{ "name": "Item 123", "id": 123 }, { "name": "Item 456", "id": 456 }], "next": { "id": 789 }
+    "total": 2, 
+    "items": [{ "name": "Item 123", "id": 123 }, { "name": "Item 456", "id": 456 }], 
+    "next": { "id": 789 }
 }
 `
 
